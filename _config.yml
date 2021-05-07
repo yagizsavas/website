@@ -91,12 +91,12 @@ defaults:
 
 # Site Author
 author:
-  name:
+  name: Yagiz Savas
   picture:
-  email:
+  email: yagiz.savas@utexas.edu
   twitter:
   links:
-    - title:
+    - github: yagizsavas.github.com
       url:
       icon:
 
