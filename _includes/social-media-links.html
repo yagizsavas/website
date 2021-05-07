@@ -1,7 +1,6 @@
 {% if site.data.social-media %}
-<div id="social-media">
+<div align="center" id="social-media">
     {% assign sm = site.data.social-media %}
-    <a style="padding-left:280px;"></a>
     {% for entry in sm %}
         {% assign key = entry | first %}
         {% if sm[key].id %}
