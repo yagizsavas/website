@@ -31,6 +31,7 @@ mathjax:
   tags:  # "none", "ams" (default), "all"
 google_fonts:
   - name: "Source Sans Pro"
+  #- name: "Open Sans"
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"

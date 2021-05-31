@@ -6,9 +6,9 @@ permalink: /Publications/
 
 ### Journal Publications
 [1] **Y. Savas**, C. Verginis, M. Hibbard, U. Topcu, “On Minimizing Total Discounted Cost in MDPs Subject to Reachability Constraints”, _under review_ [[Link]](https://arxiv.org/abs/2103.09295)\\
-[2] **Y. Savas**, V. Gupta, U. Topcu, “On the Complexity of Sequential Incentive Design”, _under review_ [[Link]](https://arxiv.org/abs/2007.08548)\\
-[3] E. Noorani\*, **Y. Savas\***, A. Koppel, J. Baras, U. Topcu, B. M. Sadler,  “Collaborative Beamforming Under Localization Errors: A Discrete Optimization Approach”, _under review_ [[Link]](https://128.84.4.35/abs/2003.12637)\\
-[4] **Y. Savas\***, M. Hibbard\*, B. Wu, T. Tanaka, U. Topcu, “Entropy Maximization for Partially Observable Markov Decision Processes”, _under review_\\
+[2] E. Noorani\*, **Y. Savas\***, A. Koppel, J. Baras, U. Topcu, B. M. Sadler,  “Collaborative Beamforming Under Localization Errors: A Discrete Optimization Approach”, _under review_ [[Link]](https://128.84.4.35/abs/2003.12637)\\
+[3] **Y. Savas\***, M. Hibbard\*, B. Wu, T. Tanaka, U. Topcu, “Entropy Maximization for Partially Observable Markov Decision Processes”, _under review_\\
+[4] **Y. Savas**, V. Gupta, U. Topcu, “On the Complexity of Sequential Incentive Design”, IEEE Transactions on Automatic Control, _accepted_ [[Link]](https://arxiv.org/abs/2007.08548)\\
 [5] O. Kirtas, **Y. Savas**, M. Bayraker, F. Baskaya, H. Basturk, E. Samur, "Design, Implementation, and Evaluation of a Backstepping Control Algorithm for an Active Ankle–Foot Orthosis", Control Engineering Practice, 2021 [[Link]](https://www.sciencedirect.com/science/article/pii/S0967066120302379?casa_token=F8itL6FzVB0AAAAA:3hGTCY8unnQUcDaeo1kSy5-obnNJqTb2VZI5b3t_G-IHtWVVTXAxo22EDNyjUjY5NJFNZ4zAHik)\\
 [6] **Y. Savas**, M. Ornik, M. Cubuktepe, M. O. Karabag, U. Topcu, “Entropy Maximization for Markov Decision Processes Under Temporal Logic Constraints”, IEEE Transaction on Automatic Control, 2019 [[Link]](https://arxiv.org/abs/1807.03223)
 
