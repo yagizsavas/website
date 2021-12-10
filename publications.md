@@ -16,7 +16,7 @@ permalink: /Publications/
 ### Conference Publications
 [1] **Y. Savas**, C. K. Verginis, U. Topcu, “Deceptive Decision-Making Under Uncertainty”, AAAI Conference on Artificial Intelligence, 2022. (_accepted_) [[Link]](https://arxiv.org/abs/2109.06740)\\
 [2] W. Zheng, P. Thangeda, **Y. Savas**, M. Ornik, “Optimal Routing in Stochastic Networks with Reliability Guarantees”, IEEE International Conference on Intelligent Transportation Systems, pp. 3521–3526, 2021.\\
-[3] E. Noorani\*, **Y. Savas\***, A. Koppel, J. Baras, U. Topcu, B. M. Sadler, “Collaborative Beamforming for Agents with Localization Errors”, Asilomar Conference on Signals, Systems and Computers, 2021.\\ 
+[3] E. Noorani\*, **Y. Savas\***, A. Koppel, J. Baras, U. Topcu, B. M. Sadler, “Collaborative Beamforming for Agents with Localization Errors”, Asilomar Conference on Signals, Systems and Computers, 2021. \\ 
 [4] **Y. Savas**, A. Hashemi, A. P. Vinod, B. M. Sadler, U. Topcu, “Physical-Layer Security via Distributed Beamforming in the Presence of Adversaries with Unknown Locations”, IEEE International Conference on Acoustics, Speech, and Signal Processing, 2021. [[Link]](https://arxiv.org/abs/2103.00630)\\
 [5] M. Hibbard\*, **Y. Savas\***, Z. Xu, U. Topcu, “Minimizing the Information Leakage Regarding High-Level Task Specifications”, IFAC World Congress, 2020. [[Link]](https://www.sciencedirect.com/science/article/pii/S2405896320330287)\\
 [6] **Y. Savas**, V. Gupta, M. Ornik, L. J. Ratliff, U. Topcu, “Incentive Design for Temporal Logic Objectives”, IEEE Conference on Decision and Control, 2019. [[Link]](https://arxiv.org/abs/1903.07752)\\
