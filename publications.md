@@ -5,7 +5,7 @@ permalink: /Publications/
 \* indicates equal contribution.
 
 ### Journal Publications
-[1] X. Duan, **Y. Savas**, R. Yan, Z. Xu, U. Topcu, “On the Detectability of Markov Decision Processes”, IEEE Transactions on Information Theory (_under review_)\\
+[1] X. Duan, **Y. Savas**, R. Yan, Z. Xu, U. Topcu, “On the Detection of Markov Decision Processes”, IEEE Transactions on Information Theory (_under review_)\\
 [2] N. Lauffer, M. Ghasemi, A. Hashemi, **Y. Savas**, U. Topcu, “No-Regret Learning in Dynamic Stackelberg Games”, IEEE Transactions on Automatic Control (_under review_)\\
 [3] E. Noorani\*, **Y. Savas\***, A. Koppel, J. Baras, U. Topcu, B. M. Sadler,  “Collaborative Beamforming Under Localization Errors: A Discrete Optimization Approach”, Signal Processing (_under review_) [[Link]](https://128.84.4.35/abs/2003.12637)\\
 [4] **Y. Savas**, C. Verginis, M. Hibbard, U. Topcu, “On Minimizing Total Discounted Cost in MDPs Subject to Reachability Constraints”, IEEE Transactions on Automatic Control, 2021. (_accepted_) [[Link]](https://arxiv.org/abs/2103.09295)\\
