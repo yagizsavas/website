@@ -5,13 +5,14 @@ permalink: /Publications/
 \* indicates equal contribution.
 
 ### Journal Publications
-[1] N. Lauffer, M. Ghasemi, A. Hashemi, **Y. Savas**, U. Topcu, “No-Regret Learning in Dynamic Stackelberg Games”, IEEE Transactions on Automatic Control (_under review_)\\
-[2] E. Noorani\*, **Y. Savas\***, A. Koppel, J. Baras, U. Topcu, B. M. Sadler,  “Collaborative Beamforming Under Localization Errors: A Discrete Optimization Approach”, Signal Processing (_under review_) [[Link]](https://128.84.4.35/abs/2003.12637)\\
-[3] **Y. Savas**, C. Verginis, M. Hibbard, U. Topcu, “On Minimizing Total Discounted Cost in MDPs Subject to Reachability Constraints”, IEEE Transactions on Automatic Control, 2021. (_accepted_) [[Link]](https://arxiv.org/abs/2103.09295)\\
-[4] **Y. Savas\***, M. Hibbard\*, B. Wu, T. Tanaka, U. Topcu, “Entropy Maximization for Partially Observable Markov Decision Processes”, IEEE Transactions on Automatic Control, 2021. (_accepted_)\\
-[5] **Y. Savas**, V. Gupta, U. Topcu, “On the Complexity of Sequential Incentive Design”, IEEE Transactions on Automatic Control, 2021. (_accepted_) [[Link]](https://arxiv.org/abs/2007.08548)\\
-[6] O. Kirtas, **Y. Savas**, M. Bayraker, F. Baskaya, H. Basturk, E. Samur, "Design, Implementation, and Evaluation of a Backstepping Control Algorithm for an Active Ankle–Foot Orthosis", Control Engineering Practice, 2021. [[Link]](https://www.sciencedirect.com/science/article/pii/S0967066120302379?casa_token=F8itL6FzVB0AAAAA:3hGTCY8unnQUcDaeo1kSy5-obnNJqTb2VZI5b3t_G-IHtWVVTXAxo22EDNyjUjY5NJFNZ4zAHik)\\
-[7] **Y. Savas**, M. Ornik, M. Cubuktepe, M. O. Karabag, U. Topcu, “Entropy Maximization for Markov Decision Processes Under Temporal Logic Constraints”, IEEE Transactions on Automatic Control, 2019. [[Link]](https://arxiv.org/abs/1807.03223)
+[1] X. Duan, **Y. Savas**, R. Yan, Z. Xu, U. Topcu, “On the Detectability of Markov Decision Processes”, IEEE Transactions on Information Theory (_under review_)\\
+[2] N. Lauffer, M. Ghasemi, A. Hashemi, **Y. Savas**, U. Topcu, “No-Regret Learning in Dynamic Stackelberg Games”, IEEE Transactions on Automatic Control (_under review_)\\
+[3] E. Noorani\*, **Y. Savas\***, A. Koppel, J. Baras, U. Topcu, B. M. Sadler,  “Collaborative Beamforming Under Localization Errors: A Discrete Optimization Approach”, Signal Processing (_under review_) [[Link]](https://128.84.4.35/abs/2003.12637)\\
+[4] **Y. Savas**, C. Verginis, M. Hibbard, U. Topcu, “On Minimizing Total Discounted Cost in MDPs Subject to Reachability Constraints”, IEEE Transactions on Automatic Control, 2021. (_accepted_) [[Link]](https://arxiv.org/abs/2103.09295)\\
+[5] **Y. Savas\***, M. Hibbard\*, B. Wu, T. Tanaka, U. Topcu, “Entropy Maximization for Partially Observable Markov Decision Processes”, IEEE Transactions on Automatic Control, 2021. (_accepted_)\\
+[6] **Y. Savas**, V. Gupta, U. Topcu, “On the Complexity of Sequential Incentive Design”, IEEE Transactions on Automatic Control, 2021. (_accepted_) [[Link]](https://arxiv.org/abs/2007.08548)\\
+[7] O. Kirtas, **Y. Savas**, M. Bayraker, F. Baskaya, H. Basturk, E. Samur, "Design, Implementation, and Evaluation of a Backstepping Control Algorithm for an Active Ankle–Foot Orthosis", Control Engineering Practice, 2021. [[Link]](https://www.sciencedirect.com/science/article/pii/S0967066120302379?casa_token=F8itL6FzVB0AAAAA:3hGTCY8unnQUcDaeo1kSy5-obnNJqTb2VZI5b3t_G-IHtWVVTXAxo22EDNyjUjY5NJFNZ4zAHik)\\
+[8] **Y. Savas**, M. Ornik, M. Cubuktepe, M. O. Karabag, U. Topcu, “Entropy Maximization for Markov Decision Processes Under Temporal Logic Constraints”, IEEE Transactions on Automatic Control, 2019. [[Link]](https://arxiv.org/abs/1807.03223)
 
 ### Conference Publications
 [1] **Y. Savas**, C. K. Verginis, U. Topcu, “Deceptive Decision-Making Under Uncertainty”, AAAI Conference on Artificial Intelligence, 2022. (_accepted_) [[Link]](https://arxiv.org/abs/2109.06740)\\
